@@ -1,0 +1,9 @@
+name: cpp
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel     # For jupyter notebook
+  - matplotlib
+  - numpy
+  - pandas
